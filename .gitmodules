@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "od"]
+	path = od
+	url = https://github.com/itsleeds/od
+	shallow = true
+	registered = true
+[submodule "pct"]
+	path = pct
+	url = https://github.com/itsleeds/pct
+	shallow = true
+	registered = true
