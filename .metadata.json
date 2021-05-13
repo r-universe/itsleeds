@@ -1,0 +1,10 @@
+[
+  {
+    "package": "od",
+    "oncran": true
+  },
+  {
+    "package": "pct",
+    "oncran": true
+  }
+]
