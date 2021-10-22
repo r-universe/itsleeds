@@ -4,7 +4,6 @@
     "oncran": true
   },
   {
-    "package": "pct",
-    "oncran": true
+    "package": "pct"
   }
 ]
