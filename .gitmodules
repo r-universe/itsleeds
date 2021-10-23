@@ -8,8 +8,3 @@
 	url = https://github.com/itsleeds/od
 	shallow = true
 	registered = true
-[submodule "pct"]
-	path = pct
-	url = https://github.com/itsleeds/pct
-	shallow = true
-	registered = true
